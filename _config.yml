@@ -1,8 +1,8 @@
 # Site settings
-title: The Minimum Viable Model
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+title: Pringgasela Literasi Blog
+description: 'ini adalah tulisan pemuda stroberi' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/pringgaselaliterasi-blog" # the subpath of your site, e.g. /blog
 url: "https://pringgaselaliterasi-blog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
